@@ -103,7 +103,7 @@ return(
                             </div>
                             <div>
                                 <h1 className="display-4">{data.properties.name}</h1>
-                                <p className="lead">{data.description} One of many in the Star Wars universe</p>
+                                <p className="lead">{data.description}. One of many in the Star Wars universe</p>
                             </div>
                         </div>
                         <hr className="my-4"/>
