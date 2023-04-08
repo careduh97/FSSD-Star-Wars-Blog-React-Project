@@ -1,3 +1,12 @@
 /* 
     General Styles
 */
+
+.hover-effect:hover {
+    opacity: 0.5;
+}
+
+.hover-delete:hover {
+    opacity: 0.5;
+    color: red;
+}
